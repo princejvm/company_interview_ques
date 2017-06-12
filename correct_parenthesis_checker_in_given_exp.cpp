@@ -1,3 +1,10 @@
+/*Any fool can write code that a computer can understand. Good programmers write code that humans can understand.*/
+//AUTHOR--> PRINCE KUMAR
+//HANDLE--> princejvm on competitive coding websites
+/*#include<iostream.h>
+#include<stack.h>    // work of these header files collectively done by <bits/stdc++.h>
+#include<stdio.h>
+*/
 #include<bits/stdc++.h>
 using namespace std;
 char a[105];
